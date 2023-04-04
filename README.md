@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)  Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](https://www.hizliresim.com/rdtbwqt)
+![Açma](https://www.hizliresim.com/rdtbwqt)
 
 ## Installation
 
