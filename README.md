@@ -7,11 +7,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)  Eğitiminde oluşturduğum il
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
-
+```
 git@github.com:ValiantVoyage/kodluyoruzilkrepo.git
+```
 
-'''
+
 
 
 
